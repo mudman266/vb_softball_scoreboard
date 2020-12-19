@@ -1,0 +1,12 @@
+C:\School\CSC-139\Chapter6\Softball Scoreboard\bin\Debug\Softball Scoreboard.exe.config
+C:\School\CSC-139\Chapter6\Softball Scoreboard\bin\Debug\Softball Scoreboard.exe
+C:\School\CSC-139\Chapter6\Softball Scoreboard\bin\Debug\Softball Scoreboard.pdb
+C:\School\CSC-139\Chapter6\Softball Scoreboard\bin\Debug\Softball Scoreboard.xml
+C:\School\CSC-139\Chapter6\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter6\Softball Scoreboard\obj\Debug\Softball_Scoreboard.frmMain.resources
+C:\School\CSC-139\Chapter6\Softball Scoreboard\obj\Debug\Softball_Scoreboard.Resources.resources
+C:\School\CSC-139\Chapter6\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter6\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter6\Softball Scoreboard\obj\Debug\Softball Scoreboard.exe
+C:\School\CSC-139\Chapter6\Softball Scoreboard\obj\Debug\Softball Scoreboard.xml
+C:\School\CSC-139\Chapter6\Softball Scoreboard\obj\Debug\Softball Scoreboard.pdb
